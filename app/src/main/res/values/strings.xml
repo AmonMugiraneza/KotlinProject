@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinProject</string>
+    <string name="when_to_scan"><b> When to scan items \n</b> \nScan items in the cart when you don\'t \n see them on the receipt </string>
 </resources>
